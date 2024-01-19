@@ -1,0 +1,41 @@
+{
+ "token": "",
+ "prefix": [".","!"],
+ "guildID": "",
+ "BotClientID": "",
+ "mongoUrl": "",
+ "developers": [""],
+ "founderperm": "",
+ "developerperm": "",
+ "botSes": "",
+ "footerText": "ismetpiuv 💜 xxx",           
+ "oyunetkyazi": "ismetpiuv 💜 xxx",
+ "oyunetktur": "PLAYING",
+ "embedrenk": "#99FFCC", 
+ "yetkili": "",
+
+ "whitelist": {
+  "wllogkanal": "",
+  "wlpermi": "",
+  "wlyetkilisi": ""
+ },
+
+ "karakteronay": {
+  "onaylogkanal": "",
+  "onaypermi": "",
+  "onayyetkilisi": ""
+ },
+ 
+ "uyari": {
+  "uyari1": "",
+  "uyari2": "",
+  "uyari3": "",
+  "uyarilogkanal": ""
+ },
+
+ "server": {
+  "cfxip": "https://cfx.re/join/",
+  "ipadresi": "cfx.re/join/",
+  "sunucuadi":"xxx Roleplay"
+ }
+}
