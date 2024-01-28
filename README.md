@@ -1,6 +1,6 @@
 # piuv Bot v8
 
-Kurmayı bilmeyen kurmasın zaten kurulum kolay kurcalayın çözersiniz
+Kurulum kolay kurcalayın çözersiniz
 src/configs/emojis.json içindeki emojileri eklemeyi unutmayın eklemesseniz çalışmazlar
 içinde ufak tefek kusurlar bıraktım onlarıda düzeltebilirsiniz bence
 
