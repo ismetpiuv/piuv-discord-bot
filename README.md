@@ -1,5 +1,4 @@
 # piuv-discord-bot
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/ismetpiuv/piuv-discord-bot)
 
 `piuv-discord-bot` is a comprehensive management bot for Discord, specifically tailored for FiveM roleplay communities. It provides a wide range of features through both slash and prefix commands, including moderation, user management, server status announcements, and roleplay-specific functionalities like whitelisting and character approvals.
 
